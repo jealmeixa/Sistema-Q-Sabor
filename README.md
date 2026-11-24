@@ -64,7 +64,9 @@ Após a confirmação do pagamento, o pedido será identificado como pago e fica
 Dessa forma, o sistema facilitará o controle dos pedidos e pagamentos, tornando o processo mais rápido, organizado e eficiente para os estudantes e funcionários.
 
 
+## Documentação completa
 
+[Visualizar documentação do Q'Sabor (PDF)](docs/Documenta%C3%A7%C3%A3o%20Q'Sabor%20.pdf)
 
 
 
